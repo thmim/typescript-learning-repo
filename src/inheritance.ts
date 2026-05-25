@@ -45,3 +45,4 @@ class Teacher extends Parent{
 
 const teacher1 = new Teacher('momen',32,'bangla','professor')
 teacher1.takeClass(5)
+teacher1.getSleep(10)
